@@ -1,0 +1,3 @@
+Model Type,Accuracy (%),Parameters (Total),Model Size (MB)
+Original,99.12,202738,0.7769
+Pruned,98.83,202738,0.7765
